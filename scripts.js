@@ -1,5 +1,5 @@
 // move the "Yes" button
-document.getElementById("yes-btn").addEventListener("click", function() {
+document.getElementById("no-btn").addEventListener("click", function() {
   var x = Math.floor(Math.random() * (window.innerWidth - this.offsetWidth));
   var y = Math.floor(Math.random() * (window.innerHeight - this.offsetHeight));
   this.style.position = "absolute";
