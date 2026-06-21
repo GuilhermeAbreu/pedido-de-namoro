@@ -2,6 +2,7 @@ body {
   background-color: #E6E6FA;
   font-family: Arial, sans-serif;
 	display: block;
+  font-size: 34px;
 }
 
 h1 {
@@ -17,7 +18,7 @@ h1 {
   padding: 10px 20px;
   text-align: center;
   display: inline-block;
-  font-size: 24px;
+  font-size: 34px;
   margin-top: 50px;
   cursor: pointer;
 }
