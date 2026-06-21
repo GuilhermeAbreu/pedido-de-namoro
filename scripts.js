@@ -8,7 +8,7 @@ document.getElementById("yes-btn").addEventListener("click", function() {
 });
 
 // show the modal when the "No" button is clicked
-document.getElementById("no-btn").addEventListener("click", function() {
+document.getElementById("yes-btn").addEventListener("click", function() {
   document.getElementById("modal").style.display = "block";
 });
 
